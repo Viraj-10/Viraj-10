@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on `No where`
 
-- 💬 Ask me about **React, JavaScript, NativeBase**
+- 💬 Ask me about **React, React Native, JavaScript, Typescript, gluestack**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-10&show_icons=true&locale=en" alt="viraj-10" /></p>
 
