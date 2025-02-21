@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viraj Joshi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-10&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-10" /> </p>
 
-- 🔭 I’m currently working on [gluestack](https://github.com/gluestack/gluestack-ui)
+- 🔭 I’m currently working in razorpay, ex [gluestack](https://github.com/gluestack/gluestack-ui).
 
 - 🌱 I’m currently learning **React Native, MonoRepo, Go, NextJs**
 
